@@ -32,14 +32,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-###
+
+![73ae954eca418ab0c711b1e474abdabd](https://github.com/user-attachments/assets/d75638ac-fc89-4f1d-931a-1df02d9cc825) || ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/kinjsnake/count.svg?"  />
 </div>
 
 ###
-![73ae954eca418ab0c711b1e474abdabd](https://github.com/user-attachments/assets/d75638ac-fc89-4f1d-931a-1df02d9cc825)
 
 <!--
 Here are some ideas to get you started:
