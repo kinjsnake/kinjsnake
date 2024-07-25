@@ -1,6 +1,6 @@
 ## Hi, I'm kinjsnake 👋😎
 
-![jormungandr](https://github.com/user-attachments/assets/82082f6e-90c0-4b66-889d-4592f2e0a1fe)
+
 
 ###
 
@@ -39,7 +39,7 @@
 </div>
 
 ###
-
+![jormungandr](https://github.com/user-attachments/assets/82082f6e-90c0-4b66-889d-4592f2e0a1fe)
 <!--
 **kinjsnake/kinjsnake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
