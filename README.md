@@ -1,6 +1,7 @@
 ## Hi, I'm kinjsnake 👋😎
 
-<img src="https://raw.githubusercontent.com/kinjsnake/kinjsnake/output/snake.svg" alt="Snake animation" />
+<img src="![jormungandr](https://github.com/user-attachments/assets/82082f6e-90c0-4b66-889d-4592f2e0a1fe)
+" />
 
 ###
 
