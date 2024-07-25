@@ -1,6 +1,14 @@
 ## Hi, I'm kinjsnake 👋😎
 
 
+
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kinjsnake/count.svg?"  />
+</div>
+
+
 <!--
 **kinjsnake/kinjsnake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
