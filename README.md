@@ -1,7 +1,6 @@
 ## Hi, I'm kinjsnake 👋😎
 
-<img src="![jormungandr](https://github.com/user-attachments/assets/82082f6e-90c0-4b66-889d-4592f2e0a1fe)
-" />
+![jormungandr](https://github.com/user-attachments/assets/82082f6e-90c0-4b66-889d-4592f2e0a1fe)
 
 ###
 
