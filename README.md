@@ -1,8 +1,6 @@
-## Hi, I'm kinjsnake 👋
+## Hi, I'm kinjsnake 👋😎
 
-<div align="center">
-  <img height="200" src="https://giphy.com/gifs/oreki-houtarou-kXdo4BgGoFC80"  />
-</div>
+
 <!--
 **kinjsnake/kinjsnake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
